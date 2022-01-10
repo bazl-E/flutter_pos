@@ -6,7 +6,7 @@ A mobile POS written in _Flutter_, suitable for small cafe/restaurant, fully off
 
 **Tested & printable on **Sunmi V1S** device.**
 
-![sunmi_v1s](.github/resource/print.jpg)
+![sunmi_v1s](.github/resource/2.png)
 
 **Support:**
 
